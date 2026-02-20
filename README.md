@@ -2,7 +2,7 @@ Soluções Computacionais – Academic Project
 
 Academic software project developed with a focus on modular architecture and quality validation.
 
-📌 Overview
+Overview
 
 Soluções Computacionais A3 is a Java Swing application structured with MVC and DAO layers, designed to manage user authentication, task workflows, and dashboard view components.
 
